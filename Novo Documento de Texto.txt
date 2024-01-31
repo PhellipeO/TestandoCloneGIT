@@ -1,0 +1,1 @@
+Testando fazer um commit pelo TERMINAL do VSCODE
